@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ATMEGA328P-AU")(type "Legacy")(uri "C:/Users/sebas/Downloads/ATMEGA328P-AU/ATMEGA328P-AU.lib")(options "")(descr "")(disabled))
+)
